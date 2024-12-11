@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Parent
+- 👋 Hi, I’m @MPMK
 - 👀 I’m interested in web desgin
-- 🌱 I’m currently learning php, css, html,
+- 🌱 I’m currently learning php, css, html, JavaScript
 - 📫 How to reach me parent.mathieu10@protonmail.com
